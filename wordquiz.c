@@ -121,6 +121,7 @@ void show_words ()
 		char * meaning = strtok(NULL, "\"") ;
 
 		printf("  %s : %s\n", word, meaning) ;
+		// add a line to show some letters of the word
 
 		free(line) ;
 	}
