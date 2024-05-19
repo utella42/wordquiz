@@ -124,6 +124,7 @@ void show_words ()
 
 		free(line) ;
 	}
+	// should mix the order of words
 	printf("  -----\n\n") ;
 
 	fclose(fp) ;
