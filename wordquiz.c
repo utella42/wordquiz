@@ -4,7 +4,7 @@
 #include <dirent.h>
 #include <ctype.h>
 
-
+// This is a simple word quiz program.
 typedef 
 	enum {
 		C_ZERO,
